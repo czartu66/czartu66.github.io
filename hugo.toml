@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://czartu66.github.io"
 title   = "aczartoryjski portfolio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -235,7 +235,7 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "About Me"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
