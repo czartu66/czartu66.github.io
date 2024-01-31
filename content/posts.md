@@ -4,7 +4,7 @@ date = 2024-01-31T15:37:30+01:00
 +++
 
 Greetings! 
-My name is Adam, a dedicated Quality Assurance Engineer with a passion for ensuring the seamless functioning 
+I am a dedicated Quality Assurance Engineer with a passion for ensuring the seamless functioning 
 of software applications. My journey in the realm of Quality Assurance has been marked by a relentless pursuit of 
 excellence and a commitment to delivering top-notch products. This portfolio serves as a testament to my skills, 
 experiences, and the impact I've made in the field.
